@@ -1,0 +1,2 @@
+# SQL_ODV3
+SQL Ödev 3 | LIKE ve ILIKE
